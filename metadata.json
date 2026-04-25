@@ -1,0 +1,12 @@
+{
+  "name": "بصيرة - تحليل المستندات اليدوية",
+  "description": "نظام احترافي مدعوم بالذكاء الاصطناعي لتحليل أذون الصرف والاستلام اليدوية وتصديرها لملفات إكسيل.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI OCR",
+    "Data Analysis",
+    "Excel Export"
+  ]
+}
